@@ -1,0 +1,5 @@
+{
+  name: 'Luq',
+  job: 'Global testesssst yay',
+  updatedAt: '2025-01-08T06:26:57.606Z'
+}

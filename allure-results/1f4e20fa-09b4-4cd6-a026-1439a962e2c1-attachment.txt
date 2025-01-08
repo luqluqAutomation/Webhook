@@ -1,0 +1,3 @@
+---total number of columns & rows----------------
+no of colums:  4
+no of rows:  5
